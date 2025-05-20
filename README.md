@@ -55,6 +55,4 @@ A full waveform is constructed over 4 phases:
 - Q3: descend π→3π/2 (negative)
 - Q4: ascend 3π/2→2π (negative)
 
-## License
 
-MIT License
